@@ -1,0 +1,21 @@
+#TPStart#
+#T#Appzillon#E#
+#H#Appzillon IDE#E#
+#D#Appzillon is a product#E#
+#S#Part of I-exceed company#E#
+#IUrl#http://i-exceed.com/wp-content/uploads/2015/10/iexceed-logo_light.png#E#
+#nav#http://i-exceed.com/#E#
+#######
+#T#Syd Bank#E#
+#H#App created for Syd Bank#E#
+#D#Powered by appzillon#E#
+#S#Work in Progress App#E#
+#IUrl#http://i-exceed.com/wp-content/uploads/2016/03/syndicate-bank-logo1.png#E#
+#nav#http://i-exceed.com/#E#
+#######
+#T#Quote#E#
+#H#Inspiration#E#
+#D#Inspirational Quotes#E#
+#S#Live Life Long#E#
+#######
+#TPEnd#
